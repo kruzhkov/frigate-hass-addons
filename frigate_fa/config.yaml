@@ -8,10 +8,10 @@ breaking_versions:
   - 0.14.0
 panel_icon: "mdi:cctv"
 panel_title: Frigate
-slug: frigate-fa
+slug: frigate-rk
 description: NVR with realtime local object detection for IP cameras
 url: "https://github.com/blakeblackshear/frigate"
-image: ghcr.io/blakeblackshear/frigate:stable-rk
+image: ghcr.io/blakeblackshear/frigate
 startup: application
 boot: auto
 init: false
